@@ -65,7 +65,23 @@ console.log(absoluto)
 //08)Declare uma variável e atribua a ela um valor numérico. Em seguida, exiba se o número é par ou ímpar no console.
 let m=70;
 let n=3;
-let ímpar
+let resto;
 
+resto= 14 % 27
 
+console.log(resto)
 
+//09) Declare uma variável e atribua a ela um valor numérico. Em seguida, exiba se o número é positivo, negativo ou zero no console.
+let o=30
+let p= 60
+let positivo;
+let negativo;
+
+positivo=30,60 > 2;
+negativo=60,30 < 2;
+
+console.log(negativo,positivo)
+
+//10)Declare duas variáveis e atribua a elas valores numéricos. Em seguida, exiba o maior número no console
+let q=44
+let r=55
